@@ -6,7 +6,7 @@ Version: 1.0.0
 Introduction:
 CP74HC595 Library makes programming with IC 74HC595 and above easier for beginners to use IoT to save the number of pins plugged into the circuit board.
 
-How to connect:
+###How to connect:
 
 To connect the circuit board to IC 74HC595, we need to connect as follows:
 
@@ -40,7 +40,7 @@ My library supports the following command with Ver 1.0.0:
 ```python
 
 <library declaration name>.setPin(<pin number>, <High/Low>);
-
+```
 This is a tutorial for those who are new to circuit boards and IoT.
 
 <Dev Community Project>-----------
