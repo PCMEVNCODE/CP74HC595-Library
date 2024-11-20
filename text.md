@@ -1,6 +1,6 @@
-Library CP74HC595
-Version 1.0
-
+## Library CP74HC595
+## Version 1.0
+----------------------------------------
 Developing by Dev Community Project
 Days of created: 2/11/2024
 <------------------------------------------------------>
