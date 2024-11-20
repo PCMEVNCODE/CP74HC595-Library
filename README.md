@@ -1,7 +1,7 @@
-CP74HC595 Library
-Creator: Dev Community Project
-Created on: 11/2/2024
-Version: 1.0.0
+## CP74HC595 Library
+## Creator: Dev Community Project
+## Created on: 11/2/2024
+## Version: 1.0.0
 ----------------------------------------------------------------
 ## Introduction:
 CP74HC595 Library makes programming with IC 74HC595 and above easier for beginners to use IoT to save the number of pins plugged into the circuit board.
