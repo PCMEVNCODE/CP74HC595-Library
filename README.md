@@ -3,17 +3,17 @@ Creator: Dev Community Project
 Created on: 11/2/2024
 Version: 1.0.0
 ----------------------------------------------------------------
-Introduction:
+## Introduction:
 CP74HC595 Library makes programming with IC 74HC595 and above easier for beginners to use IoT to save the number of pins plugged into the circuit board.
 
-###How to connect:
+## How to connect:
 
 To connect the circuit board to IC 74HC595, we need to connect as follows:
 
 --Connect VCC (5V) to pin 16 (VCC) and GND to pin 8 of IC 74HC595.
 
 Here, we use the pins to control the circuit pins and we will use the Arduino circuit to control and you can use other circuits as well.
-Example of connecting IC 74HC595 to Arduino:
+## Example of connecting IC 74HC595 to Arduino:
 
 --> Pin 14 (DS) connects to pin 2 (Digital) of Arduino
 --> Pin 11 (SRCLK) connects to pin 3 (Digital) of Arduino
@@ -27,7 +27,7 @@ That is a test example.
 
 And my library supports 74HC595 ICs connected together.
 
-Connect as follows:
+## Connect as follows:
 
 The pins remain the same and the second IC will change pin 14 (DS) will connect to pin 9 (Q7') of the second IC and the pins remain connected as the first IC.
 
