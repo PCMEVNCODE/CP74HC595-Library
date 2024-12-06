@@ -41,7 +41,7 @@ Our library only supports up to 100 pins per library declaration when pairing mu
 
 My library supports the following command with Ver 1.0.0:
 
-```python
+```C++
 
 <library declaration name>.setPin(<pin number>, <High/Low>);
 ```
