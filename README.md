@@ -16,9 +16,13 @@ Here, we use the pins to control the circuit pins and we will use the Arduino ci
 ## Example of connecting IC 74HC595 to Arduino:
 
 --> Pin 14 (DS) connects to pin 2 (Digital) of Arduino
+
 --> Pin 11 (SRCLK) connects to pin 3 (Digital) of Arduino
+
 --> Pin 12 (RCLK) connects to pin 4 (Digital) of Arduino
+
 --> Pin 10 (SRCLR) connects to VCC (5V)
+
 --> Pin 13 (OE) connects to GND
 
 As for the code, I put it in the examples folder.
