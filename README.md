@@ -43,7 +43,7 @@ My library supports the following command with Ver 1.0.0:
 
 ```C++
 
-<library declaration name>.setPin(<pin number>, <High/Low>);
+<library declaration name>.setPin(<pin number>, <HIGH/LOW>);
 ```
 This is a tutorial for those who are new to circuit boards and IoT.
 
